@@ -1,4 +1,4 @@
-# GestureLock 🔐
+# GestureLock : IoT Based Gesture Password And Authentication System 🔐
 
 **An offline gesture-based smart lock prototype built with ESP32, MPU6050, a 16×2 I²C LCD, and a buzzer.**
 
